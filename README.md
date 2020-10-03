@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [projecteuler-solutions](https://github.com/f26433/projecteuler-solutions)
-- 👯 I’m looking to collaborate on [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 - 💬 Ask me about Linux software
 - 📫 How to reach me: 
   - Matrix : @f26433:matrix.org
